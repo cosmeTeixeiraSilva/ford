@@ -1,0 +1,19 @@
+.video {
+
+
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+
+.video iframe {
+    border-radius: 12px;
+    margin-top: 24px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}

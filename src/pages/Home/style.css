@@ -1,0 +1,45 @@
+.home {
+    width: 90vw;
+    text-align: center;
+    padding-left: 50px;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.home img {
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.home img {
+    width: 40%;
+    margin-right: 24px;
+
+}
+
+.texto {
+    padding: 12px;
+
+}
+
+.texto h1 {
+
+    width: 100%;
+    background-color: none;
+    text-align: justify;
+    margin-bottom: 30px;
+
+}
+
+.texto p {
+
+    width: 100%;
+    background-color: none;
+    text-align: justify;
+    line-height: 40px;
+    font-size: 18px;
+
+}
